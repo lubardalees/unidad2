@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Source+Code+Pro:wght@700&display=swap');
+
+
+* {
+    font-family: 'Mochiy Pop P One', monospace;
+}
+
+body{
+
+    background-image: url(https://64.media.tumblr.com/feccfe867310980171d23658a71f025e/a4cc905fcfca1e50-26/s540x810/df0e8e26a97b238e59964278bd80a1ab983e55f7.gifv);
+    background-size: 100%;
+}
+
+.box{
+
+background-color: rgba(112, 247, 85, 0.904);
+color: rgb(0, 131, 0);
+margin-bottom: 25px;
+border-radius: 15px;
+
+}
+
+h1{
+
+font-size: 40px;
+
+
+}
+
+
+
+.box1{
+
+size: 25%;
+align-items: center;
+background-color: cadetblue;
+float: left;
+margin-right: 55%;
+padding: 10px;
+border-radius: 15px;
+
+
+
+}
+
+
+
